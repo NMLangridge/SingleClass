@@ -34,5 +34,3 @@ public class WaterBottleTest {
         assertEquals(100, myWaterBottle.getVolume());
     }
 }
-
-//test
